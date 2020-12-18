@@ -1,2 +1,2 @@
-#Thesis GitHub Repo
-Repo for all BBs simulations for his thesis
+# Thesis GitHub Repo
+Repo for all BBs simulations and timeseries plots for his thesis
